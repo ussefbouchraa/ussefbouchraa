@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef BOUCHRAA</h1>
+<div id="header" align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem4xdTc3ODJjaXF5aHZudGdubDU3ODMyaHl3Mnd3bXB2Z2c0ZTQ1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Cg41tz5aEc7vCio8Zn/giphy.gif" width="100"/>
+</div>
 <h3 align="center">I'm from Morrocco , study at 1337 school (42 NETWORK), I have a huge interest about coding with experience in building Web sites and desktop applications, with some cool technologies and frameworks.</h3>
 
 - 🔭 I’m currently working on [42 cursus](https://cestoliv.com/projects/42)
