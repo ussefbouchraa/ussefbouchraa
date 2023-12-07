@@ -3,6 +3,12 @@
 </div>
 <h3 align="center">I'm from Morrocco , study at 1337 school (42 NETWORK), I have a huge interest about coding with experience in building Web sites and desktop applications, with some cool technologies and frameworks.</h3>
 
+<hr>
+
+<a  href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ussefbouchraa&theme=dark"  alt="GitHub Streak"></a>
+
+
+<hr>
 - 🔭 I’m currently working on [42 cursus](https://cestoliv.com/projects/42)
 
 - 🌱 I’m currently learning &nbsp; &nbsp; <a href = ""> [ C++ | React.js | ...]</a>
@@ -12,6 +18,8 @@
 - 🔗 Some of my projets [https://www.ussefbouchraa.me/](https://www.ussefbouchraa.me/)
 
 - 📫 How to reach me **ussefbouchraa@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
