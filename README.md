@@ -11,7 +11,7 @@
       <li style="padding: 10px;">🌱 I’m currently learning &nbsp; &nbsp; <a href = "#"> [ C++ | React.js | ...]</a></ol>
       <li style="padding: 10px;">👨‍💻 All of my projects are available at <a href = "https://github.com/ussefbouchraa"> github/ussefbouchraa</a></li>
       <li style="padding: 10px;">🔗 Some of my projets <a href = "https://www.ussefbouchraa.me/"> Portfolio/ussefbouchraa</a></li>
-      <li style="padding: 10px;"> 📫 How to reach me ussefbouchraa@gmail.com </li>
+      <li style="padding: 10px;"> 📫 How to reach me  <a href = "ussefbouchraa@gmail.com"<\a> ussefbouchraa@gmail.com</li>
     </ul>
     <h3>Connect with me:</h3>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/youssef-bouchraa-1140a11ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youssef-bouchraa-1140a11ba/" height="30" width="40" /></a>
