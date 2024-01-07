@@ -1,7 +1,7 @@
 <html>
     <div style= "background-color: yellow">
       <div style="width: 30%; height:295px; float: left; "><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ybouchra" alt="ybouchra's 42 stats" /></a></div>
-      <div style="width: 60%; height:295px; float; right"> <h1>Hi 👋, I'm Youssef BOUCHRAA</h1><h3>I'm from Morocco, studying at 1337 school (42 NETWORK). I have a keen interest in coding with experience in building websites and desktop applications using various technologies and frameworks.</h3></div>
+      <div style="width: 60%; height:295px; float; right"> <h1>Hi 👋, I'm Youssef BOUCHRAA</h1><h3>I'm Youssef BOUCHRAA from Morocco, a student at 1337 school (42 NETWORK). I'm skilled in coding, focusing on building websites and desktop applications using various technologies and frameworks. Eager to take on new challenges and continuously improve my skills.</h3></div>
     </div>
       <div style="clear: both;"></div>
     </div>
